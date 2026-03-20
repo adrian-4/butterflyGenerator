@@ -41,5 +41,5 @@ function draw(){
     r--;
   }
   endShape();
-  yoff += 0.1;
+  //yoff += 0.1;
 }
